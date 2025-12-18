@@ -1,0 +1,37 @@
+name: quote_geh
+description: "Quote Geh - Daily Inspiration App by Coding Geh"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  flutter_hooks: ^0.20.5
+  hooks_riverpod: ^2.6.1
+  dio: ^5.4.0
+  easy_localization: ^3.0.7
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.5.0
+  shared_preferences: ^2.3.5
+  intl: ^0.20.2
+  freezed_annotation: ^2.4.4
+  json_annotation: ^4.9.0
+  url_launcher: ^6.3.2
+  share_plus: ^10.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+  freezed: ^2.5.8
+  json_serializable: ^6.9.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/

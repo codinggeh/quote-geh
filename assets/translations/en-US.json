@@ -1,0 +1,19 @@
+{
+    "title": "Quote Geh",
+    "nav": {
+        "quotes": "Quotes",
+        "favorites": "Favorites"
+    },
+    "home": {
+        "daily_inspiration": "Daily Inspiration",
+        "subtitle": "Discover wisdom that moves you",
+        "new_quote": "New Quote"
+    },
+    "favorites": {
+        "empty": "No favorites yet",
+        "hint": "Tap the heart icon to save quotes"
+    },
+    "footer": {
+        "rights": "All rights reserved"
+    }
+}
