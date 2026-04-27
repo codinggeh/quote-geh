@@ -17,7 +17,7 @@ A beautiful daily inspiration app built with Flutter. Discover wisdom that moves
 
 ## 🚀 Live Demo
 
-**[Try Quote Geh →](https://coding-geh.github.io/quote-geh/)**
+**[Try Quote Geh →](https://codinggeh.github.io/quote-geh/)**
 
 ## 📦 Installation
 
@@ -29,7 +29,7 @@ A beautiful daily inspiration app built with Flutter. Discover wisdom that moves
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Coding-Geh/quote-geh.git
+   git clone https://github.com/codinggeh/quote-geh.git
    cd quote-geh
    ```
 
